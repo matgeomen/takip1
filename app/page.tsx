@@ -11,7 +11,9 @@ import {
   ClipboardCheck,
   BarChart3,
   Clock,
-  TrendingUp
+  TrendingUp,
+  FileText,
+  StickyNote
 } from 'lucide-react';
 import { FirebaseService } from '@/lib/firebase-service';
 import { LocalStorageService } from '@/lib/local-storage';
